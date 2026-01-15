@@ -7,15 +7,15 @@
 
 ### :sparkles:스터디 규칙
 - 일주일에 최소 `3개`의 문제를 풀고 인증합니다.  
-- 일요일 `자정`까지 PR을 생성해주세요. (월요일에 Merge 예정)
+- 화요일 자정까지 풀이할 문제 디스코드 방에 올려주세요. 
 - 난이도는 백준 `실버 ~ 골드`, 프로그래머스 `레벨 1~4` 권장드립니다.
 <br/>
 
 ### :sparkles:commit 규칙
-- 커밋 메세지 : [문제 출처 플랫폼] 문제이름 / 난이도
+- 커밋 메세지 : [문제 출처 플랫폼] 문제번호.문제이름_난이도
 ```
-git commit -m "[BOJ] Hello / 실버1"
-git commit -m "[PGS] Hello / Lv.1"
+git commit -m "[BOJ] Hello_실버1"
+git commit -m "[PGS] Hello_Lv.1"
 ```
 - 플랫폼 작성법  
   - [BOJ] - 백준  
@@ -31,3 +31,4 @@ git commit -m "[PGS] Hello / Lv.1"
 - 라벨  
   - 본인 `이름`의 라벨 기본적으로 추가  
   - `incomplete` : 시도했지만 해결하지 못한 문제
+
