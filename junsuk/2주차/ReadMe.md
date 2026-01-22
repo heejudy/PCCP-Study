@@ -33,3 +33,6 @@ priorities의 가장 앞에 있으면 0, 두 번째에 있으면 1 … 과 같�
 
 예제 #2
 : 6개의 프로세스 [A, B, C, D, E, F]가 대기 큐에 있고 중요도가 [1, 1, 9, 1, 1, 1] 이므로 [C, D, E, F, A, B] 순으로 실행됩니다. 따라서 A는 5번째로 실행됩니다.
+
+
+노션 : https://www.notion.so/2-2ef11b9c89a68053aba4f62fcc27777f?source=copy_link
