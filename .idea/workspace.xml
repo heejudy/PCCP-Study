@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c768b2cd-042e-43d6-832b-2a86b5acc551" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jinhyuk/4주차/10816. 숫자 카드 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jinhyuk/4주차/10816. 숫자 카드 2/숫자 카드 2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jinhyuk/4주차/2108. 통계학/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jinhyuk/4주차/2108. 통계학/통계학.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jinhyuk/4주차/2805. 나무 자르기/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jinhyuk/4주차/2805. 나무 자르기/나무 자르기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jin605"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/heejudy/PCCP-Study.git",
+    "accountId": "a882a76d-f3e0-4692-ac42-48842b93222d"
+  }
+}]]></component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="39ElB1UVDVYUuJLMKA0pikCm1jt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "jinhyuk",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Playdata/Develop/java/PCCP-Study/jinhyuk/4주차",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Playdata\Develop\java\PCCP-Study\jinhyuk\4주차" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c768b2cd-042e-43d6-832b-2a86b5acc551" name="Changes" comment="" />
+      <created>1770268972107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770268972107</updated>
+      <workItem from="1770268976211" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
