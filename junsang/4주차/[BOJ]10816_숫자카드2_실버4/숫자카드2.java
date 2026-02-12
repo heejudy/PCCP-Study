@@ -17,10 +17,9 @@ public class BOJ_10816 {
 		 */
 		HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
 
-		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-
 		int N = Integer.parseInt(br.readLine()); // N = 10
 
+		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 		for(int i = 0; i < N; i++) {
 			int key = Integer.parseInt(st.nextToken()); // 6 3 2 10 10 10 -10 -10 7 3
 			/*
