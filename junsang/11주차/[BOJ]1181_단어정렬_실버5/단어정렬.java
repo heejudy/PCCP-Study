@@ -13,7 +13,7 @@ public class BOJ_1181 {
 
 		for (int i = 0; i < N; i++) {
 			String text = br.readLine();
-			if(!str.contains(text)){
+			if(!str.contains(text)){ // 중복 단어 체크
 				str.add(text);
 			}
 		}
@@ -23,6 +23,9 @@ public class BOJ_1181 {
 				if(o1.length() == o2.length()){
 					return o1.compareTo(o2); // 사전 순으로 정렬
 				}
+
+				//결과가 음수 (-) : o1가 더 작으면 앞에 정렬
+				//결과가 양수 (+) : o2가 더 작으면 순서 바꿈
 				return o1.length() - o2.length();
 			}
 		});
